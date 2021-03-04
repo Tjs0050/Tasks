@@ -309,3 +309,11 @@ boxplot(formula = mpg ~ cyl, data = mtcars)
 hist(mtcars$mpg)
 1
 2
+-----------------------------------------------------
+                       	Task 02							
+setwd('C:\\Documents\\Evolution\\Tasks\\Tasks_02')
+cd ~/OneDrive\Desktop\Evolution\Tasks
+mkdir Tasks_02
+setwd('C:\Users\tyler\OneDrive\Desktop\Evolution\Tasks\Task_02')
+setwd(C:\Users\tyler\OneDrive\Desktop\Evolution\Tasks\Task_02)
+setwd('~/Desktop/Evolution/tasks/Task_02')
