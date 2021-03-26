@@ -1,0 +1,5 @@
+Project Data
+
+
+setwd('C:\\Users\\tyler\\OneDrive\\Desktop\\Evolution\\Tasks\\Project Data')
+Data <- read.csv('Project Data.csv', stringsAsFactors=F)
